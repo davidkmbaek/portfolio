@@ -10970,3 +10970,8 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+/* === Custom overrides === */
+.offcanvas {
+  --bs-offcanvas-bg: #0d6efd; /* Set left sidebar background to blue */
+}
